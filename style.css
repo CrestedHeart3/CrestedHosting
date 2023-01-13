@@ -168,6 +168,14 @@ footer p{
 	}
 }
 
-.main-page-text{
+@media (max-width: 800px) {
+  .main-page-text{
+	font-size: 100%;
+}
+}
+
+@media (min-width: 800px) {
+  .main-page-text{
 	font-size: 125%;
+}
 }
