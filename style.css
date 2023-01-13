@@ -167,3 +167,7 @@ footer p{
 		transform: translate(0);
 	}
 }
+
+.main-page-text{
+	font-size: 40px;
+}
