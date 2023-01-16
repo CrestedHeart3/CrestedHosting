@@ -73,7 +73,7 @@ a{
     box-shadow: 10px 10px 50px gray;
     margin: 2%;
     border-radius: 10px;
-    text-align: justify;
+    text-align: left;
 }
 .shadow h3{
     color: red;
@@ -108,7 +108,7 @@ footer p{
 }
 
 .center-vert{
-	margin: 105px 0 0 0;
+	margin: 145px 0 0 0;
 }
 
 .center{
@@ -166,16 +166,4 @@ footer p{
 	40% {
 		transform: translate(0);
 	}
-}
-
-@media (max-width: 800px) {
-  .main-page-text{
-	font-size: 100%;
-}
-}
-
-@media (min-width: 800px) {
-  .main-page-text{
-	font-size: 125%;
-}
 }
