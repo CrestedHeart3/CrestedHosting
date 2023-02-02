@@ -60,7 +60,7 @@ a{
     border-radius: 7px;
 }
 .profile:hover{
-    background-image: linear-gradient(red, red);
+    background-image: linear-gradient(rgb(51, 102, 255), rgb(51, 102, 255));
     color: rgb(24, 22, 22);
 }
 .second h3{
@@ -73,7 +73,7 @@ a{
     box-shadow: 10px 10px 50px gray;
     margin: 2%;
     border-radius: 10px;
-    text-align: justify;
+    text-align: left;
 }
 .shadow h3{
     color: red;
